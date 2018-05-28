@@ -63,7 +63,7 @@ top: true
 # Miscellaneous
 baidu_analytics: ''
 google_analytics: ''
-favicon: https://upload.wikimedia.org/wikipedia/commons/a/a3/Cc.logo.circle.svg
+favicon: /assets/ioc/bitbug_favicon.ico
 
 #你的头像url
 avatar: https://upload.wikimedia.org/wikipedia/commons/a/a3/Cc.logo.circle.svg
