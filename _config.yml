@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 繁华-fanhua
 subtitle:
 description:
 keywords:
@@ -84,13 +84,13 @@ jsonContent:
       path: true
       text: false
       raw: false
-      content: true
+      content: false
       slug: false
       updated: false
       comments: false
       link: false
       permalink: false
-      excerpt: true
+      excerpt: false
       categories: false
       tags: true
 
