@@ -1,7 +1,7 @@
 ---
 title: Hello World
-comments: true
 excerpt: 'asdddddddddddddddddddsaaaaaa'
+
 ---
 这是我的一个随笔
 这是我的一个随笔
@@ -17,7 +17,6 @@ excerpt: 'asdddddddddddddddddddsaaaaaa'
 这是我的一个随笔
 这是我的一个随笔
 这是我的一个随笔
-'more'
 这是我的一个随笔
 这是我的一个随笔
 这是我的一个随笔
