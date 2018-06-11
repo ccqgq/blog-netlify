@@ -9,9 +9,9 @@ tags:
 ### 网上的回答
  
 1、final可以用来修饰类、方法、变量。final修饰的类不能被继承，修饰的方法不能被重写，修饰的变量不可以修改。  
-2、finally异常处理中一定可以执行的代码，try-finally 或者 try-catch-finally 用来关闭io流的关闭等。  
+2、finally异常处理中一定可以执行的代码，try-finally 或者 try-catch-finally 用来关闭io流的关闭等。 
+<!-- more --> 
 3、finalize是objiect类的一个方法，垃圾收集器将对象从内存中清除出去之前做必要的清理工作。(注：改方法在Java9中已经被标记为过时（deprecated）)  
-<!-- more -->
 ### 简单分析
 **final**  
 一般来说是推荐使用fianl关键字来修饰我们的代码，这样可以明确代码的逻辑意图是很有用的。  
